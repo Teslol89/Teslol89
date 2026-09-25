@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6B1F&height=130&section=header" width="100%"/>
 
-<img src="./assets/logo_vl.png" alt="Verdeguer Labs" width="380"/>
+<img src="./assets/logo.png" alt="Verdeguer Labs" width="380"/>
 
 <br/><br/>
 
@@ -26,23 +26,13 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 ## Mis stacks
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,ts,react,astro,tailwind" alt="Frontend stack"/>
 
-</td>
-<td valign="top" width="33%">
-
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,php,postgres,mysql,sqlite,firebase" alt="Backend stack"/>
-
-</td>
-<td valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,postgres,mysql,sqlite,firebase" alt="Backend stack"/> <sub>+ SQLAlchemy</sub>
 
 **Móvil & Infra**
 
@@ -50,10 +40,6 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 <img src="https://icon.icepanel.io/Technology/svg/Ionic.svg" width="48" height="48" alt="Ionic"/>
 <img src="https://icon.icepanel.io/Technology/svg/Capacitor.svg" width="48" height="48" alt="Capacitor"/>
 <img src="https://icon.icepanel.io/Technology/svg/Apache.svg" width="48" height="48" alt="Apache"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
