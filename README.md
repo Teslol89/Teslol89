@@ -56,7 +56,7 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Teslol89&hide_border=true&ring=5C6B1F&fire=5C6B1F&currStreakLabel=5C6B1F&background=FFFFFF" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Teslol89&hide_border=true&background=000000&ring=5C6B1F&fire=5C6B1F&currStreakLabel=5C6B1F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="165"/>
 
 </div>
 
