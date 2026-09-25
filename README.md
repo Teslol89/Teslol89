@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6B1F&height=130&section=header" width="100%"/>
 
-<img src="./assets/logo_vl.png" alt="Verdeguer Labs" width="380"/>
+<img src="./assets/logo.png" alt="Verdeguer Labs" width="380"/>
 
 <br/><br/>
 
@@ -28,15 +28,15 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 **Frontend**
 
-<img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="48" height="48" alt="HTML5"/> <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="48" height="48" alt="CSS3"/> <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="48" height="48" alt="TypeScript"/> <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="48" height="48" alt="React"/> <img src="https://icon.icepanel.io/Technology/svg/Astro.svg" width="48" height="48" alt="Astro"/> <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="48" height="48" alt="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,astro,tailwind" alt="Frontend stack"/>
 
 **Backend**
 
-<img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="48" height="48" alt="Python"/> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="48" height="48" alt="FastAPI"/> <img src="https://icon.icepanel.io/Technology/svg/SQLAlchemy.svg" width="48" height="48" alt="SQLAlchemy"/> <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="48" height="48" alt="PHP"/> <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="48" height="48" alt="PostgreSQL"/> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="48" height="48" alt="MySQL"/> <img src="https://icon.icepanel.io/Technology/svg/SQLite.svg" width="48" height="48" alt="SQLite"/> <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="48" height="48" alt="Firebase"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,postgres,mysql,sqlite,firebase" alt="Backend stack"/> <img src="https://img.shields.io/badge/-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" height="48" alt="SQLAlchemy"/>
 
 **Móvil & Infra**
 
-<img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="48" height="48" alt="Kotlin"/> <img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="48" height="48" alt="Java"/> <img src="https://icon.icepanel.io/Technology/svg/Ionic.svg" width="48" height="48" alt="Ionic"/> <img src="https://icon.icepanel.io/Technology/svg/Capacitor.svg" width="48" height="48" alt="Capacitor"/> <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="48" height="48" alt="NGINX"/> <img src="https://icon.icepanel.io/Technology/svg/Apache.svg" width="48" height="48" alt="Apache"/> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="48" height="48" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,nginx,git" alt="Móvil e infra stack"/> <img src="https://img.shields.io/badge/-3880FF?style=flat-square&logo=ionic&logoColor=white" height="48" alt="Ionic"/> <img src="https://img.shields.io/badge/-119EFF?style=flat-square&logo=capacitor&logoColor=white" height="48" alt="Capacitor"/> <img src="https://img.shields.io/badge/-D22128?style=flat-square&logo=apache&logoColor=white" height="48" alt="Apache"/>
 
 <br/>
 
