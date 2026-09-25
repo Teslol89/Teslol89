@@ -26,21 +26,27 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 ## Mis stacks
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<table> <tr> <td valign="top" width="33%">
 
-**Frontend**
+Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,astro,tailwind" alt="Frontend stack"/> </td> <td valign="top" width="33%">
 
-</td>
-<td valign="top" width="33%">
+Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,postgres,mysql,sqlite,firebase" alt="Backend stack"/>
+
+<sub>+ SQLAlchemy</sub>
+
+</td> <td valign="top" width="33%">
+
+Móvil & Infra
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,nginx,git" alt="Móvil e infra stack"/>
+
+<sub>+ Ionic · Capacitor · Apache</sub>
+
+</td> </tr> </table> <br/>
 
 **Backend**
 
