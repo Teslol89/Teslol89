@@ -2,7 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6B1F&height=130&section=header" width="100%"/>
 
-<img src="./assets/logo_vl.png" alt="Verdeguer Labs" width="380"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_vl.png"/>
+  <img src="./assets/logo_vl_dark.png" alt="Verdeguer Labs" width="380"/>
+</picture>
 
 <br/><br/>
 
@@ -56,7 +59,10 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Teslol89&hide_border=true&background=transparent&ring=5C6B1F&fire=5C6B1F&currStreakLabel=5C6B1F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Teslol89&hide_border=true&background=transparent&ring=5C6B1F&fire=5C6B1F&currStreakLabel=5C6B1F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teslol89&hide_border=true&background=transparent&ring=5C6B1F&fire=5C6B1F&currStreakLabel=5C6B1F&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=333333" alt="GitHub Streak" height="165"/>
+</picture>
 
 </div>
 
