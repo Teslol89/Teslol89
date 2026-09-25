@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=5C6B1F&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Verdeguer+Labs+%F0%9F%8C%B1" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=5C6B1F&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Verdeguer+Labs" alt="Typing SVG">
 </p>
 
 ### Full-Stack Developer · Web · Mobile · Infraestructura
