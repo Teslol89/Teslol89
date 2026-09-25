@@ -9,6 +9,8 @@
 
 <br/><br/>
 
+Marcos Cobas Verdeguer
+
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=5C6B1F&center=true&vCenter=true&width=435&lines=Desarrollador+de+software+Full-Stack;Frontend+%C2%B7+Backend+%C2%B7+M%C3%B3vil+%26+DevOps+%C2%B7+E2E" alt="Typing SVG"/>
 
 <br/>
