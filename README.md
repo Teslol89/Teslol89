@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6B1F&height=130&section=header" width="100%"/>
 
-<img src="./assets/logo.png" alt="Verdeguer Labs" width="380"/>
+<img src="./assets/logo_vl.png" alt="Verdeguer Labs" width="380"/>
 
 <br/><br/>
 
