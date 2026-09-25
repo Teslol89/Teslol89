@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_vl.png"/>
-  <img src="./assets/logo_vl_dark.png" alt="Verdeguer Labs" width="380"/>
+  <img src="./assets/logo_vl_darkmode.png" alt="Verdeguer Labs" width="380"/>
 </picture>
 
 <br/><br/>
