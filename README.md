@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=5C6B1F&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Web+%C2%B7+Mobile+%C2%B7+Infra" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=5C6B1F&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Web+%C2%B7+Mobile+%C2%B7+DevOps" alt="Typing SVG"/>
 
 <br/>
 
@@ -34,7 +34,7 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,postgres,mysql,sqlite,firebase" alt="Backend stack"/> <img src="https://cdn.simpleicons.org/sqlalchemy" width="48" height="48" alt="SQLAlchemy"/>
 
-**Móvil & Infra**
+**Móvil & DevOps**
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,nginx,git" alt="Móvil e infra stack"/> <img src="https://cdn.simpleicons.org/ionic" width="48" height="48" alt="Ionic"/> <img src="https://cdn.simpleicons.org/capacitor" width="48" height="48" alt="Capacitor"/> <img src="https://cdn.simpleicons.org/apache" width="48" height="48" alt="Apache"/>
 
