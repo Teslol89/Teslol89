@@ -18,7 +18,7 @@
 
 <br/>
 
-Sobre mí
+## Sobre mí
 
 Desarrollador full-stack. Diseño y construyo productos digitales de punta a punta: interfaz, API y despliegue en producción. Bajo la marca **Verdeguer Labs** desarrollo soluciones web y móviles a medida, cuidando tanto el rendimiento como la experiencia de usuario.
 
