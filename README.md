@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Verdeguer Labs" width="420"/>
+<img src="./assets/logo_vl.png" alt="Verdeguer Labs" width="420"/>
 
 <br/>
 
