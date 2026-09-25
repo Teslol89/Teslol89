@@ -6,6 +6,9 @@
 
 ### Full-Stack Developer · Web · Mobile · Infra
 
+![Static Badge](https://img.shields.io/badge/hola-blue)
+
+
 [![Email](https://img.shields.io/badge/Email-marcos.info1989%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:marcos.info1989@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Cobas-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-cobas-verdeguer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-verdeguerlabs.es-333333?style=flat-square&logo=firefox&logoColor=white)](https://portfolio.verdeguerlabs.es)
