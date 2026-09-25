@@ -32,11 +32,11 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,php,postgres,mysql,sqlite,firebase" alt="Backend stack"/> <img src="https://img.shields.io/badge/-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" height="48" alt="SQLAlchemy"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,postgres,mysql,sqlite,firebase" alt="Backend stack"/> <img src="https://cdn.simpleicons.org/sqlalchemy" width="48" height="48" alt="SQLAlchemy"/>
 
 **Móvil & Infra**
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,nginx,git" alt="Móvil e infra stack"/> <img src="https://img.shields.io/badge/-3880FF?style=flat-square&logo=ionic&logoColor=white" height="48" alt="Ionic"/> <img src="https://img.shields.io/badge/-119EFF?style=flat-square&logo=capacitor&logoColor=white" height="48" alt="Capacitor"/> <img src="https://img.shields.io/badge/-D22128?style=flat-square&logo=apache&logoColor=white" height="48" alt="Apache"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,nginx,git" alt="Móvil e infra stack"/> <img src="https://cdn.simpleicons.org/ionic" width="48" height="48" alt="Ionic"/> <img src="https://cdn.simpleicons.org/capacitor" width="48" height="48" alt="Capacitor"/> <img src="https://cdn.simpleicons.org/apache" width="48" height="48" alt="Apache"/>
 
 <br/>
 
