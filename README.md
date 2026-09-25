@@ -53,7 +53,7 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Teslol89&show_icons=true&hide_border=true&count_private=true&title_color=5C6B1F&icon_color=5C6B1F&text_color=333333&bg_color=00000000" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Teslol89&hide_border=true&ring=5C6B1F&fire=5C6B1F&currStreakLabel=5C6B1F&background=00000000" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Teslol89&hide_border=true&ring=5C6B1F&fire=5C6B1F&currStreakLabel=5C6B1F&background=FFFFFF" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teslol89&hide_border=true&color=333333&line=5C6B1F&point=5C6B1F&area=true&area_color=5C6B1F&bg_color=00000000" alt="Activity Graph" width="95%"/>
 
