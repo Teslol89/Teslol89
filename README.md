@@ -41,8 +41,6 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,postgres,mysql,sqlite,firebase" alt="Backend stack"/>
 
-<sub>+ SQLAlchemy</sub>
-
 </td>
 <td valign="top" width="33%">
 
