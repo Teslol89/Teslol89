@@ -81,7 +81,7 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5C6B1F&height=100&section=footer" width="100%"/>
 
-<div align="center">
+<div align="center" flex-column>
 
 hacerlo bien no es una opción; es el estándar.
 **¿Hablamos de tu proyecto?** 📩 [marcos.info1989@gmail.com](mailto:marcos.info1989@gmail.com)
