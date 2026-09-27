@@ -34,6 +34,8 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 - 🌱 Aprendiendo sobre MCPs, agentes e IA
 - 💬 Pregúntame sobre desarrollo web y móvil
 
+<hr style="height:6px; border:none; background-color:#5C6B1F;">  
+
 <br/>
 
 ## Mis stacks
