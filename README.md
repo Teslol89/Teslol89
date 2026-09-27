@@ -28,7 +28,7 @@
 Desarrollador full-stack. Diseño y construyo productos digitales de punta a punta: interfaz, API y despliegue en producción. Bajo la marca **Verdeguer Labs** desarrollo soluciones web y móviles a medida, cuidando tanto el rendimiento como la experiencia de usuario.
 
 - 🔭 Trabajando actualmente como autónomo en **Verdeguer Labs**
-- 🌱 Aprendiendo sobre MCPs, agentes y todo lo relacionado con IA
+- 🌱 Aprendiendo sobre MCPs, agentes e IA
 - 💬 Pregúntame sobre desarrollo web y móvil
 
 <br/>
