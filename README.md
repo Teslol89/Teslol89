@@ -83,9 +83,11 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <div align="center">
 
-hacerlo bien no es una opción; es el estándar.
-<br/>
 **¿Hablamos de tu proyecto?** 📩 [marcos.info1989@gmail.com](mailto:marcos.info1989@gmail.com)
+
+<br/>
+
+*hacerlo bien no es una opción; es el estándar.*
 
 </div>
 
