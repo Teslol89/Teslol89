@@ -54,6 +54,8 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <br/>
 
+<hr style="height:6px; border:none; background-color:#5C6B1F;">  
+
 ## Mis servicios
 
 - 🖥️ **Desarrollo web full-stack** — aplicaciones a medida con React/Astro en el frontend y FastAPI o PHP en el backend, con APIs REST documentadas y bases de datos bien modeladas.
@@ -61,6 +63,8 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 - ⚙️ **Despliegue e infraestructura** — puesta en producción en VPS propio con Nginx/Apache, HTTPS, integración continua con Codemagic para builds móviles y control de versiones con Git.
 
 <br/>
+
+<hr style="height:6px; border:none; background-color:#5C6B1F;">  
 
 ## GitHub Stats
 
