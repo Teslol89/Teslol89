@@ -61,6 +61,7 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 - 🖥️ **Desarrollo web full-stack** — aplicaciones a medida con React/Astro en el frontend y FastAPI o PHP en el backend, con APIs REST documentadas y bases de datos bien modeladas.
 
 - 📱 **Apps móviles híbridas y nativas** — desarrollo con Ionic + Capacitor para iOS/Android desde una sola base de código, o nativo en Kotlin/Java cuando el proyecto lo requiere.
+
 - ⚙️ **Despliegue e infraestructura** — puesta en producción en VPS propio con Nginx/Apache, HTTPS, integración continua con Codemagic para builds móviles y control de versiones con Git.
 
 <br/>
