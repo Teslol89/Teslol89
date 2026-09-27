@@ -17,6 +17,8 @@
 
 [![Email](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=%23EA4335)](mailto:marcos.info1989@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Cobas-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-cobas-verdeguer)
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=%23FF0069)](https://www.instagram.com/marcos.infodev)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-verdeguerlabs.es-333333?style=flat-square&logo=firefox&logoColor=white)](https://portfolio.verdeguerlabs.es)
 
 </div>
