@@ -38,6 +38,8 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <br/>
 
+<hr style="height:6px; border:none; background-color:#5C6B1F;">  
+
 ## Mis stacks
 
 **Frontend**
@@ -51,6 +53,8 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 **Móvil & DevOps**
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,nginx,git" alt="Móvil e infra stack"/> <img src="https://cdn.simpleicons.org/ionic" width="48" height="48" alt="Ionic"/> <img src="https://cdn.simpleicons.org/capacitor" width="48" height="48" alt="Capacitor"/> <img src="https://cdn.simpleicons.org/apache" width="48" height="48" alt="Apache"/>
+
+<hr style="height:6px; border:none; background-color:#5C6B1F;">  
 
 <br/>
 
