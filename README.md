@@ -38,8 +38,6 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <br/>
 
-<hr style="height:6px; border:none; background-color:#5C6B1F;">  
-
 ## Mis stacks
 
 **Frontend**
