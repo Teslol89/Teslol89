@@ -22,9 +22,9 @@
 
 </div>
 
-<hr style="height:6px; border:none; background-color:#5C6B1F;">  
-
 <br/>
+
+<hr style="height:6px; border:none; background-color:#5C6B1F;">  
 
 ## Sobre mí
 
