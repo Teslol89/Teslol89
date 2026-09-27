@@ -22,6 +22,8 @@
 
 </div>
 
+<hr style="height:6px; border:none; background-color:#5C6B1F;">  
+
 <br/>
 
 ## Sobre mí
