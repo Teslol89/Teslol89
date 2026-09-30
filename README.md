@@ -91,7 +91,7 @@ Desarrollador full-stack. Diseño y construyo productos digitales de punta a pun
 
 <br/>
 
-*hacerlo bien no es una opción; es el estándar.*
+*Hacerlo bien no es una opción; es el estándar.*
 
 </div>
 
